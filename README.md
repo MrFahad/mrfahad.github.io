@@ -1,6 +1,6 @@
 # Fahad Majeed
 
-<a><img src="Fahad.png" width="300" align="right"></a>  
+<a><img src="Fahad.png" width="200" align="right"></a>  
 
 ### PhD Scholar | Computer Vision Researcher | Sports Video Analyst | Big Data
 
@@ -70,9 +70,9 @@ My mission is to **push the boundaries of Artificial Intelligence** by crafting 
 
 If you'd like to collaborate, feel free to reach out!
 
-📧 Email: [fahad_majeed@yahoo.com]  
-🌍 Location: [Doha, Qatar] 
-🌐 Website: [Fahad Majeed](https://MrFahad.github.io) 
+📧 Email: fahad_majeed@yahoo.com  
+🌍 Location: Education City, Qatar Foundation, Doha, Qatar.
+🌐 Website: Fahad Majeed(https://MrFahad.github.io) 
 
 ---
 

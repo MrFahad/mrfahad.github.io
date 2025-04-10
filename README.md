@@ -1,6 +1,6 @@
 # Fahad Majeed
 
-<a><img src="Fahad.png" width="280" align="right"></a>
+<a><img src="Fahad.png" width="200" align="right"></a>
 
 ### PhD Scholar | Computer Vision Researcher | Sports Video Analyst | Machine Learning Expert
 

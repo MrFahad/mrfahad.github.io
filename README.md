@@ -108,7 +108,7 @@ Publications:
 
 📧 **Email**: fahad_majeed@yahoo.com  
 🌍 **Location**: Education City, Qatar Foundation, Doha, Qatar. 
-🌐 **Website**: https://fahad.github.io
+🌐 **Website**: https://mrfahad.github.io
 
 ---
 

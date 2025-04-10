@@ -30,7 +30,7 @@ My research pushes the boundaries of AI for **human activity understanding**, **
 - Object Detection (YOLOv3/5/7/8/9/10/11/12/YOLOE, Faster R-CNN, Mamba-YOLO)
 - Instance Segmentation (Mask R-CNN, SOLOv2)
 - Multi-object Tracking (SORT, Deep SORT, ByteTrack, and BoTSORT)
-- Pose Estimation (OpenPose, HRNet, MediaPipe)
+- Pose Estimation (OpenPose, HRNet, Mediapipe)
 
 ### 🔗 Graph Learning & Temporal Analysis
 - GCNConv, EdgeConv, ST-GCN

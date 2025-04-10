@@ -100,7 +100,7 @@ Publications:
 
 ## 📸 Visuals
 
-<a><img src="Scharr_All.gif" width="1000"></a> <br>
+<a><img src="Scharr_All.mp4" width="1000"></a> <br>
 
 ---
 

@@ -1,5 +1,10 @@
 # Fahad Majeed 
-[LinkedIn](https://www.linkedin.com/in/fahad-majeed/)[GitHub](https://github.com/MrFahad)[Google Scholar](https://tinyurl.com/38jbwxvx) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahad-majeed/">LinkedIn</a> |
+  <a href="https://github.com/MrFahad">GitHub</a> |
+  <a href="https://tinyurl.com/38jbwxvx">Google Scholar</a>
+</p>
+---
 <a><img src="Fahad.png" width="200" align="right"></a>
 
 ### PhD Scholar | Computer Vision Researcher | Sports Video Analyst

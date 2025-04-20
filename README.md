@@ -66,7 +66,7 @@ A modular pipeline integrating:
 - **"ReST: High-Precision Soccer Player Tracking via Motion Vector Segmentation "**, 20th VISAPP Conference, 2025, Porto, Portugal.
 - **"MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking"**, 10th CVSports Workshops (CVPRW), 2024, Seattle, USA.
   
-- 📖 Please see my [Google Scholar Profile](https://tinyurl.com/38jbwxvx) for a complete list of publications.
+- Please see my [Google Scholar Profile](https://tinyurl.com/38jbwxvx) for a complete list of publications.
 ---
 
 ## 🧬 Datasets Worked On

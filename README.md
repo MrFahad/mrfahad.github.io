@@ -2,7 +2,7 @@
 
 <a><img src="Fahad.png" width="200" align="right"></a>
 
-### PhD Scholar | Computer Vision Researcher | Sports Video Analyst | Big Data
+### PhD Scholar | Computer Vision Researcher | Sports Video Analyst
 
 I am a **PhD Scholar in Computer Vision** with over **8 years of cross-disciplinary experience** in academia and industry. My core expertise lies in designing **deep learning-based pipelines** for solving complex challenges in **sports video analytics**, and **large-scale data processing**. I develop end-to-end systems that combine **computer vision**, **graph theory**, **AI**, and **big data technologies** to deliver robust, scalable, and high-impact solutions.
 
@@ -23,13 +23,13 @@ My research pushes the boundaries of AI for **human activity understanding**, **
 
 ### 🧠 Machine Learning / Deep Learning
 - PyTorch, TensorFlow, Scikit-learn, Keras, Detectron2, MMDetection
-- CNNs, RNNs, Transformers, Attention Mechanisms
+- CNNs, RNNs, Transformers, Attention Mechanisms, SepFormer
 - Graph Neural Networks (GCN, GAT, ST-GCN)
 
 ### 📊 Computer Vision
 - Object Detection (YOLOv3/5/7/8/9/10/11/12/YOLOE, Faster R-CNN, Mamba-YOLO)
-- Instance Segmentation (Mask R-CNN, SOLOv2)
-- Multi-object Tracking (SORT, Deep SORT, ByteTrack, and BoTSORT)
+- Instance Segmentation (Mask R-CNN)
+- Multi-object Tracking (SORT, OC-SORT, Deep SORT, ByteTrack, and BoTSORT)
 - Pose Estimation (OpenPose, HRNet, Mediapipe)
 
 ### 🔗 Graph Learning & Temporal Analysis
@@ -40,12 +40,12 @@ My research pushes the boundaries of AI for **human activity understanding**, **
 ### ⚙️ Tools & Platforms
 - Python, MATLAB, Bash, Git, Docker, LaTeX, REST APIs
 - Jupyter Notebooks, PyCharm, VSCode
-- Streamlit, Flask (for rapid app prototyping)
+- Streamlit, Flask
 - Kaggle, Google Colab Pro, NVIDIA CUDA
 
 ---
 
-## 📚 Selected Projects
+## 📚 Projects
 
 ### ⚽ Intelligent Soccer Analytics Framework
 A modular pipeline integrating:
@@ -62,14 +62,11 @@ A modular pipeline integrating:
 
 ---
 
-## 🧪 Publications & Research
-
-📖 Please see my [Google Scholar Profile](https://tinyurl.com/38jbwxvx) for a complete list of publications.
-
-Publications:
+## 🧪 Publications
 - **"ReST: High-Precision Soccer Player Tracking via Motion Vector Segmentation "**, 20th VISAPP Conference, 2025, Porto, Portugal.
 - **"MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking"**, 10th CVSports Workshops (CVPRW), 2024, Seattle, USA.
-
+- 
+📖 Please see my [Google Scholar Profile](https://tinyurl.com/38jbwxvx) for a complete list of publications.
 ---
 
 ## 🧬 Datasets Worked On
@@ -87,21 +84,14 @@ Publications:
 
 - **Industry Projects**:  
   Worked on AI-driven medical diagnostics, surveillance systems, and sports tech for startups and research labs.
-
 ---
 
 ## 🌐 Online Presence
-
 - [LinkedIn](https://www.linkedin.com/in/fahad-majeed/)
 - [GitHub](https://github.com/MrFahad)
 - [Google Scholar](https://tinyurl.com/38jbwxvx)
-
 ---
-
-## 📸 Visuals
-
 <a><img src="Scharr_All.gif" width="1000"></a> <br>
-
 ---
 
 ## 📫 Contact

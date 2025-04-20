@@ -56,8 +56,7 @@ I am a **PhD Scholar in Computer Vision** with over **8 years of cross-disciplin
 A modular pipeline integrating:
 - Deep instance segmentation to detect players
 - Graph-based spatial-temporal reasoning to model interactions
-- Pose-based action recognition and team formation detection
-  
+- Pose-based action recognition and team formation detection  
 👉 Used in performance evaluation and tactical insights.
 
 ### 📹 Real-time Multi-camera Video Analytics

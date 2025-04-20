@@ -95,9 +95,9 @@ A modular pipeline integrating:
 
 ## 📫 Contact
 
-📧 **Email**: fahad_majeed@yahoo.com  
-🌍 **Location**: Education City, Qatar Foundation, Doha, Qatar. 
-🌐 **Website**: https://mrfahad.github.io
+📧 **Email**: [fahad_majeed@yahoo.com](mailto:fahad_majeed@yahoo.com)  
+📍 **Current Location**: [Education City, Qatar Foundation, Doha, Qatar](https://www.google.com/maps/place/Education+City,+Doha,+Qatar)  
+🌐 **Website**: [![Website](https://img.shields.io/badge/Website-mrfahad.github.io-blue?style=for-the-badge)](https://mrfahad.github.io)
 
 ---
 

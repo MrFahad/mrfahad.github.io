@@ -57,6 +57,7 @@ A modular pipeline integrating:
 - Deep instance segmentation to detect players
 - Graph-based spatial-temporal reasoning to model interactions
 - Pose-based action recognition and team formation detection
+  
 👉 Used in performance evaluation and tactical insights.
 
 ### 📹 Real-time Multi-camera Video Analytics
@@ -73,7 +74,7 @@ A modular pipeline integrating:
 
 ---
 
-## 🧬 Datasets Worked On
+## 🧬 Datasets
 
 - **SoccerNet**, **SoccerNet-Tracking**, **FIFA World Cup Data**, **OpenPose**, **BraTS**
 - Annotated custom datasets using CVAT, LabelMe, Makesense.ai, and Roboflow.
@@ -95,9 +96,9 @@ A modular pipeline integrating:
 
 ## 📫 Contact
 
-📧 **Email**: [fahad_majeed@yahoo.com](mailto:fahad_majeed@yahoo.com)  
-📍 **Current Location**: [Education City, Qatar Foundation, Doha, Qatar](https://www.google.com/maps/place/Education+City,+Doha,+Qatar)  
-🌐 **Website**: [![Website](https://img.shields.io/badge/Website-mrfahad.github.io-blue?style=for-the-badge)](https://mrfahad.github.io)
+📧 [fahad_majeed@yahoo.com](mailto:fahad_majeed@yahoo.com)  
+📍 [Education City, Qatar Foundation, Doha, Qatar](https://www.google.com/maps/place/Education+City,+Doha,+Qatar)  
+🌐 [![Website](https://img.shields.io/badge/Website-mrfahad.github.io-blue?style=for-the-badge)](https://mrfahad.github.io)
 
 ---
 

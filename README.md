@@ -1,14 +1,12 @@
-# Fahad Majeed 
+# Fahad Majeed <a><img src="Fahad.png" width="200" align="right"></a>
+
+### PhD Scholar | Computer Vision Researcher | Sports Video Analyst
+I am a **PhD Scholar in Computer Vision** with over **8 years of cross-disciplinary experience** in academia and industry. My core expertise lies in designing **deep learning-based pipelines** for solving complex challenges in **sports video analytics**, and **large-scale data processing**. I develop end-to-end systems that combine **computer vision**, **graph theory**, **AI**, and **big data technologies** to deliver robust, scalable, and high-impact solutions. My research pushes the boundaries of AI for **human activity understanding**, **real-time tracking**, **pose estimation**, **event detection**, and **instance segmentation**, particularly in domains like **sports performance analysis**.
 <p align="center">
   <a href="https://www.linkedin.com/in/fahad-majeed/">LinkedIn</a> |
   <a href="https://github.com/MrFahad">GitHub</a> |
   <a href="https://tinyurl.com/38jbwxvx">Google Scholar</a>
 </p>
-<a><img src="Fahad.png" width="200" align="right"></a>
-
-### PhD Scholar | Computer Vision Researcher | Sports Video Analyst
-I am a **PhD Scholar in Computer Vision** with over **8 years of cross-disciplinary experience** in academia and industry. My core expertise lies in designing **deep learning-based pipelines** for solving complex challenges in **sports video analytics**, and **large-scale data processing**. I develop end-to-end systems that combine **computer vision**, **graph theory**, **AI**, and **big data technologies** to deliver robust, scalable, and high-impact solutions. My research pushes the boundaries of AI for **human activity understanding**, **real-time tracking**, **pose estimation**, **event detection**, and **instance segmentation**, particularly in domains like **sports performance analysis**.
-
 ---
 ## 🔍 Research Domain
 

@@ -7,6 +7,7 @@ I am a **PhD Scholar in Computer Vision** with over **8 years of cross-disciplin
   <a href="https://github.com/MrFahad">GitHub</a> |
   <a href="https://tinyurl.com/38jbwxvx">Google Scholar</a>
 </p>
+
 ---
 ## 🔍 Research Domain
 

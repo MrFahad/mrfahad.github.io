@@ -1,3 +1,4 @@
+<div style="background-color:#F4F4F9; padding: 40px; border-radius: 15px;">
 # Fahad Majeed <a><img src="Fahad.png" width="200" align="right"></a>
 
 ### PhD Scholar | Computer Vision Researcher | Sports Video Analyst

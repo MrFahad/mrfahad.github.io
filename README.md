@@ -41,7 +41,7 @@ My research pushes the boundaries of AI for **human activity understanding**, **
 - Python, MATLAB, Bash, Git, Docker, LaTeX, REST APIs
 - Jupyter Notebooks, PyCharm, VSCode
 - Streamlit, Flask (for rapid app prototyping)
-- AWS, Google Colab Pro, HPC Clusters, NVIDIA CUDA
+- Kaggle, Google Colab Pro, NVIDIA CUDA
 
 ---
 
@@ -74,7 +74,7 @@ Publications:
 
 ## 🧬 Datasets Worked On
 
-- **SoccerNet**, **FIFA World Cup Data**, **OpenPose**, **BraTS**
+- **SoccerNet**, **SoccerNet-Tracking**, **FIFA World Cup Data**, **OpenPose**, **BraTS**
 - Annotated custom datasets using CVAT, LabelMe, Makesense.ai, and Roboflow.
 
 ---

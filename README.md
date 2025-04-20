@@ -4,7 +4,6 @@
   <a href="https://github.com/MrFahad">GitHub</a> |
   <a href="https://tinyurl.com/38jbwxvx">Google Scholar</a>
 </p>
----
 <a><img src="Fahad.png" width="200" align="right"></a>
 
 ### PhD Scholar | Computer Vision Researcher | Sports Video Analyst

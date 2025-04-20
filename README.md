@@ -3,13 +3,19 @@
 ### PhD Scholar | Computer Vision Researcher | Sports Video Analyst
 I am a **PhD Scholar in Computer Vision** with over **8 years of cross-disciplinary experience** in academia and industry. My core expertise lies in designing **deep learning-based pipelines** for solving complex challenges in **sports video analytics**, and **large-scale data processing**. I develop end-to-end systems that combine **computer vision**, **graph theory**, **AI**, and **big data technologies** to deliver robust, scalable, and high-impact solutions. My research pushes the boundaries of AI for **human activity understanding**, **real-time tracking**, **pose estimation**, **event detection**, and **instance segmentation**, particularly in domains like **sports performance analysis**.
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahad-majeed/">LinkedIn</a> |
-  <a href="https://github.com/MrFahad">GitHub</a> |
-  <a href="https://tinyurl.com/38jbwxvx">Google Scholar</a>
+  <a href="https://www.linkedin.com/in/fahad-majeed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/MrFahad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://tinyurl.com/38jbwxvx" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
 </p>
 
 ---
-## 🔍 Research Domain
+## 🎓 Areas of Interest
 
 - 📌 **Thesis Focus**: Multi-modal Deep Learning & Graph-based Reasoning for Player Behavior Understanding in Sports Videos  
 - 🧠 **Specializations**: Object Detection, Instance Segmentation, Graph Neural Networks (GNN), Feature Pyramid Networks (FPN), Temporal Modeling  
@@ -82,12 +88,6 @@ A modular pipeline integrating:
 
 - **Industry Projects**:  
   Worked on AI-driven medical diagnostics, surveillance systems, and sports tech for startups and research labs.
----
-
-## 🌐 Online Presence
-- [LinkedIn](https://www.linkedin.com/in/fahad-majeed/)
-- [GitHub](https://github.com/MrFahad)
-- [Google Scholar](https://tinyurl.com/38jbwxvx)
   
 ---
 <a><img src="Scharr_All.gif" width="1000"></a> <br>

@@ -34,7 +34,7 @@ I am a **PhD Scholar in Computer Vision** with over **8 years of cross-disciplin
 
 ### 📊 Computer Vision
 - Object Detection (YOLOv3/5/7/8/9/10/11/12/YOLOE, Faster R-CNN, Mamba-YOLO)
-- Instance Segmentation (Mask R-CNN)
+- Instance Segmentation (Mask R-CNN), MedSAM2 for 3D Medical Image Segmentation
 - Multi-object Tracking (SORT, OC-SORT, Deep SORT, ByteTrack, and BoTSORT)
 - Pose Estimation (OpenPose, HRNet, Mediapipe)
 
@@ -47,7 +47,7 @@ I am a **PhD Scholar in Computer Vision** with over **8 years of cross-disciplin
 - Python, MATLAB, Bash, Git, Docker, LaTeX, REST APIs
 - Jupyter Notebooks, PyCharm, VSCode
 - Streamlit, Flask
-- Kaggle, Google Colab Pro, NVIDIA CUDA
+- Kaggle, Google Colab
 
 ---
 
@@ -69,6 +69,7 @@ A modular pipeline integrating:
 ---
 
 ## 🧪 Publications
+- **"Real-time analysis of soccer ball–player interactions using graph convolutional networks for enhanced game insights"**, Scientific Reports, 2025, Nature Portfolio.
 - **"ReST: High-Precision Soccer Player Tracking via Motion Vector Segmentation "**, 20th VISAPP Conference, 2025, Porto, Portugal.
 - **"MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking"**, 10th CVSports Workshops (CVPRW), 2024, Seattle, USA.
 
@@ -76,7 +77,7 @@ A modular pipeline integrating:
 
 ## 🧬 Datasets
 
-- **SoccerNet**, **SoccerNet-Tracking**, **FIFA World Cup Data**, **OpenPose**, **BraTS**
+- **SoccerNet**, **SoccerNet-Tracking**, **FIFA World Cup Data**, **OpenPose**, **BraTS**, **ATLAS (ISLES 2022) Challenge Dataset**
 - Annotated custom datasets using CVAT, LabelMe, Makesense.ai, and Roboflow.
 
 ---

@@ -1,174 +1,107 @@
-<!DOCTYPE html>
-<html lang="en" class="scroll-smooth">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fahad Majeed | Computer Vision Researcher</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      darkMode: 'class',
-    }
-  </script>
-  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-</head>
-<body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 font-sans transition-colors duration-500">
+ 
+# Fahad Majeed <a><img src="Fahad.png" width="200" align="right"></a>
 
-  <!-- Dark Mode Toggle -->
-  <div class="fixed top-4 right-6 z-50">
-    <button id="theme-toggle" class="p-2 rounded-full bg-gray-200 dark:bg-gray-800 shadow-lg transition hover:scale-110">
-      <span id="theme-toggle-light" class="hidden">🌞</span>
-      <span id="theme-toggle-dark">🌙</span>
-    </button>
-  </div>
+### PhD Scholar | Computer Vision Researcher | Sports Video Analyst
+I am a **PhD Scholar in Computer Vision** with over **8 years of cross-disciplinary experience** in academia and industry. My core expertise lies in designing **deep learning-based pipelines** for solving complex challenges in **sports video analytics**, and **large-scale data processing**. I develop end-to-end systems that combine **computer vision**, **graph theory**, **AI**, and **big data technologies** to deliver robust, scalable, and high-impact solutions. My research pushes the boundaries of AI for **human activity understanding**, **real-time tracking**, **pose estimation**, **event detection**, and **instance segmentation**, particularly in domains like **sports performance analysis**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahad-majeed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/MrFahad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://tinyurl.com/38jbwxvx" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
+</p>
 
-  <!-- Hero Section -->
-  <section class="min-h-screen flex flex-col justify-center items-center text-center 
-                 bg-gradient-to-br from-blue-600 via-indigo-700 to-purple-700 text-white">
-    <img src="Fahad.png" alt="Fahad Majeed" 
-         class="w-40 h-40 rounded-full shadow-2xl mb-6 border-4 border-white animate-bounce">
-    <h1 class="text-4xl md:text-6xl font-bold">Fahad Majeed</h1>
-    <p id="typed-text" class="mt-4 text-xl md:text-2xl h-8"></p>
-    <div class="flex gap-4 mt-6">
-      <a href="https://www.linkedin.com/in/fahad-majeed/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://github.com/MrFahad" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://tinyurl.com/38jbwxvx" target="_blank">
-        <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-      </a>
-    </div>
-  </section>
+---
+## 🎓 Areas of Interest
 
-  <!-- About Section -->
-  <section class="max-w-5xl mx-auto px-6 py-16" data-aos="fade-up">
-    <h2 class="text-3xl font-bold mb-4">👋 About Me</h2>
-    <p class="text-lg leading-relaxed">
-      I am a <b>PhD Scholar in Computer Vision</b> with over <b>8 years of cross-disciplinary experience</b> in academia and industry.
-      My expertise lies in <b>deep learning-based pipelines</b> for <b>sports video analytics</b> and <b>large-scale data processing</b>.
-    </p>
-  </section>
+- 📌 **Thesis Focus**: Multi-modal Deep Learning & Graph-based Reasoning for Player Behavior Understanding in Sports Videos  
+- 🧠 **Specializations**: Object Detection, Instance Segmentation, Graph Neural Networks (GNN), Feature Pyramid Networks (FPN), Temporal Modeling  
+- ⚽ **Sports AI**: Real-time player tracking, tactical analytics, multi-camera calibration, ball trajectory prediction  
+- ☁️ **Big Data**: Distributed video annotation pipelines using Apache Spark, Pig Latin, and cloud-based GPU processing
 
-  <!-- Areas of Interest -->
-  <section class="bg-gray-100 dark:bg-gray-800 py-16" data-aos="fade-right">
-    <div class="max-w-5xl mx-auto px-6">
-      <h2 class="text-3xl font-bold mb-6">🎓 Areas of Interest</h2>
-      <ul class="space-y-3 text-lg">
-        <li>📌 Multi-modal Deep Learning & Graph-based Reasoning</li>
-        <li>🧠 Object Detection, Segmentation, GNN, FPN, Temporal Modeling</li>
-        <li>⚽ Real-time tracking, ball trajectory prediction</li>
-        <li>☁️ Distributed pipelines (Apache Spark, Cloud GPU)</li>
-      </ul>
-    </div>
-  </section>
+---
 
-  <!-- Skills -->
-  <section class="max-w-6xl mx-auto px-6 py-16" data-aos="zoom-in">
-    <h2 class="text-3xl font-bold mb-8">📈 Key Technical Skills</h2>
-    <div class="grid md:grid-cols-3 gap-8">
-      <div class="p-6 bg-white dark:bg-gray-700 shadow-xl rounded-2xl hover:scale-105 transition">
-        <h3 class="font-bold text-xl mb-3">🧠 ML / DL</h3>
-        <p>PyTorch, TensorFlow, CNNs, Transformers, GNNs, Attention, SepFormer</p>
-      </div>
-      <div class="p-6 bg-white dark:bg-gray-700 shadow-xl rounded-2xl hover:scale-105 transition">
-        <h3 class="font-bold text-xl mb-3">📊 Computer Vision</h3>
-        <p>YOLO (v3–12, YOLOE), Faster R-CNN, Mask R-CNN, Pose Estimation, Tracking</p>
-      </div>
-      <div class="p-6 bg-white dark:bg-gray-700 shadow-xl rounded-2xl hover:scale-105 transition">
-        <h3 class="font-bold text-xl mb-3">⚙️ Tools & Platforms</h3>
-        <p>Python, Docker, LaTeX, Streamlit, Flask, Google Colab, Kaggle</p>
-      </div>
-    </div>
-  </section>
+## 📈 Key Technical Skills
 
-  <!-- Projects -->
-  <section class="bg-gray-100 dark:bg-gray-800 py-16" data-aos="fade-left">
-    <div class="max-w-5xl mx-auto px-6">
-      <h2 class="text-3xl font-bold mb-6">📚 Projects</h2>
-      <div class="space-y-8">
-        <div class="p-6 bg-white dark:bg-gray-700 shadow-lg rounded-xl">
-          <h3 class="font-bold text-xl">⚽ Intelligent Soccer Analytics Framework</h3>
-          <p>Pipeline for player detection, pose-based action recognition, and tactical analysis.</p>
-        </div>
-        <div class="p-6 bg-white dark:bg-gray-700 shadow-lg rounded-xl">
-          <h3 class="font-bold text-xl">📹 Real-time Multi-camera Analytics</h3>
-          <p>Calibration, player re-ID, action tube generation for 1000+ hours of soccer data.</p>
-        </div>
-      </div>
-    </div>
-  </section>
+### 🧠 Machine Learning / Deep Learning
+- PyTorch, TensorFlow, Scikit-learn, Keras, Detectron2, MMDetection
+- CNNs, RNNs, Transformers, Attention Mechanisms, SepFormer
+- Graph Neural Networks (GCN, GAT, ST-GCN)
 
-  <!-- Publications -->
-  <section class="max-w-5xl mx-auto px-6 py-16" data-aos="fade-up">
-    <h2 class="text-3xl font-bold mb-6">🧪 Publications</h2>
-    <ul class="list-disc list-inside space-y-3">
-      <li>Scientific Reports (Nature), 2025 – Soccer ball–player interactions (GCN)</li>
-      <li>VISAPP 2025 – ReST: High-Precision Soccer Player Tracking</li>
-      <li>CVPRW 2024 – MV-Soccer: Motion-Vector Augmented Tracking</li>
-    </ul>
-  </section>
+### 📊 Computer Vision
+- Object Detection (YOLOv3/5/7/8/9/10/11/12/YOLOE, Faster R-CNN, Mamba-YOLO)
+- Instance Segmentation (Mask R-CNN), MedSAM2 for 3D Medical Image Segmentation
+- Multi-object Tracking (SORT, OC-SORT, Deep SORT, ByteTrack, and BoTSORT)
+- Pose Estimation (OpenPose, HRNet, Mediapipe)
 
-  <!-- Contact -->
-  <section class="bg-gradient-to-r from-indigo-600 to-blue-500 text-white py-16" data-aos="fade-in">
-    <div class="max-w-5xl mx-auto px-6 text-center">
-      <h2 class="text-3xl font-bold mb-4">📫 Get in Touch</h2>
-      <p>Email: <a href="mailto:fahad_majeed@yahoo.com" class="underline">fahad_majeed@yahoo.com</a></p>
-      <p>Location: <a href="https://www.google.com/maps/place/Education+City,+Doha,+Qatar" target="_blank" class="underline">Doha, Qatar</a></p>
-      <a href="https://mrfahad.github.io" target="_blank">
-        <img src="https://img.shields.io/badge/Website-mrfahad.github.io-blue?style=for-the-badge" class="mt-4 mx-auto" />
-      </a>
-    </div>
-  </section>
+### 🔗 Graph Learning & Temporal Analysis
+- GCNConv, EdgeConv, ST-GCN
+- Spatio-temporal adjacency modeling
+- Action prediction from pose graph sequences
 
-  <!-- Scripts -->
-  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-  <script>
-    AOS.init({ duration: 1000, once: true });
+### ⚙️ Tools & Platforms
+- Python, MATLAB, Bash, Git, Docker, LaTeX, REST APIs
+- Jupyter Notebooks, PyCharm, VSCode
+- Streamlit, Flask
+- Kaggle, Google Colab
 
-    // Dark Mode Toggle Logic
-    const themeToggle = document.getElementById('theme-toggle');
-    const lightIcon = document.getElementById('theme-toggle-light');
-    const darkIcon = document.getElementById('theme-toggle-dark');
+---
 
-    if (localStorage.theme === 'dark' || 
-        (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      document.documentElement.classList.add('dark');
-      lightIcon.classList.remove('hidden');
-      darkIcon.classList.add('hidden');
-    } else {
-      document.documentElement.classList.remove('dark');
-      darkIcon.classList.remove('hidden');
-      lightIcon.classList.add('hidden');
-    }
+## 📚 Projects
 
-    themeToggle.addEventListener('click', () => {
-      document.documentElement.classList.toggle('dark');
-      if (document.documentElement.classList.contains('dark')) {
-        localStorage.theme = 'dark';
-        lightIcon.classList.remove('hidden');
-        darkIcon.classList.add('hidden');
-      } else {
-        localStorage.theme = 'light';
-        darkIcon.classList.remove('hidden');
-        lightIcon.classList.add('hidden');
-      }
-    });
+### ⚽ Intelligent Soccer Analytics Framework
+A modular pipeline integrating:
+- Deep instance segmentation to detect players
+- Graph-based spatial-temporal reasoning to model interactions
+- Pose-based action recognition and team formation detection  
+👉 Used in performance evaluation and tactical insights.
 
-    // Typing Effect
-    new Typed("#typed-text", {
-      strings: [
-        "PhD Scholar in Computer Vision",
-        "Sports Video Analyst",
-        "AI & Graph Learning Researcher"
-      ],
-      typeSpeed: 50,
-      backSpeed: 30,
-      backDelay: 1500,
-      loop: true
-    });
-  </script>
-</body>
-</html>
+### 📹 Real-time Multi-camera Video Analytics
+- Camera calibration and homography estimation
+- Player re-identification using feature embedding + appearance descriptors
+- Action tube generation and spatio-temporal event localization  
+👉 Built for large-scale soccer datasets with over 1000+ video hours.
+
+---
+
+## 🧪 Publications
+- **"Real-time analysis of soccer ball–player interactions using graph convolutional networks for enhanced game insights"**, Scientific Reports, 2025, Nature Portfolio.
+- **"ReST: High-Precision Soccer Player Tracking via Motion Vector Segmentation "**, 20th VISAPP Conference, 2025, Porto, Portugal.
+- **"MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking"**, 10th CVSports Workshops (CVPRW), 2024, Seattle, USA.
+
+---
+
+## 🧬 Datasets
+
+- **SoccerNet**, **SoccerNet-Tracking**, **FIFA World Cup Data**, **OpenPose**, **BraTS**, **ATLAS (ISLES 2022) Challenge Dataset**
+- Annotated custom datasets using CVAT, LabelMe, Makesense.ai, and Roboflow.
+
+---
+
+## 💼 Professional Experience
+
+- **Teaching & Mentorship**:  
+  Taught undergraduate courses in Computer Science (BS level)  
+  Supervised undergraduate research projects and thesis in CV/AI/IoT/ML domains  
+
+- **Industry Projects**:  
+  Worked on AI-driven medical diagnostics, surveillance systems, and sports tech for startups and research labs.
+  
+---
+<a><img src="Scharr_All.gif" width="1000"></a> <br>
+---
+
+## 📫 Contact
+
+📧 [fahad_majeed@yahoo.com](mailto:fahad_majeed@yahoo.com)  
+📍 [Education City, Qatar Foundation, Doha, Qatar](https://www.google.com/maps/place/Education+City,+Doha,+Qatar)  
+🌐 [![Website](https://img.shields.io/badge/Website-mrfahad.github.io-blue?style=for-the-badge)](https://mrfahad.github.io)
+
+---
+
+> “Research is the art of seeing what everyone else has seen, but thinking what no one else has thought.”  
+> – Fahad Majeed

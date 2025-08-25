@@ -11,6 +11,7 @@
     }
   </script>
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 </head>
 <body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 font-sans transition-colors duration-500">
 
@@ -28,7 +29,7 @@
     <img src="Fahad.png" alt="Fahad Majeed" 
          class="w-40 h-40 rounded-full shadow-2xl mb-6 border-4 border-white animate-bounce">
     <h1 class="text-4xl md:text-6xl font-bold">Fahad Majeed</h1>
-    <p class="mt-4 text-xl md:text-2xl">PhD Scholar | Computer Vision Researcher | Sports Video Analyst</p>
+    <p id="typed-text" class="mt-4 text-xl md:text-2xl h-8"></p>
     <div class="flex gap-4 mt-6">
       <a href="https://www.linkedin.com/in/fahad-majeed/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -154,6 +155,19 @@
         darkIcon.classList.remove('hidden');
         lightIcon.classList.add('hidden');
       }
+    });
+
+    // Typing Effect
+    new Typed("#typed-text", {
+      strings: [
+        "PhD Scholar in Computer Vision",
+        "Sports Video Analyst",
+        "AI & Graph Learning Researcher"
+      ],
+      typeSpeed: 50,
+      backSpeed: 30,
+      backDelay: 1500,
+      loop: true
     });
   </script>
 </body>

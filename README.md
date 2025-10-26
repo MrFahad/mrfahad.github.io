@@ -69,9 +69,9 @@ A modular pipeline integrating:
 ---
 
 ## 🧪 Publications
-- **"Real-time analysis of soccer ball–player interactions using graph convolutional networks for enhanced game insights"**, Scientific Reports, 2025, Nature Portfolio. <a href="https://www.nature.com/articles/s41598-025-05462-7" target="_blank">Scientific Reports</a>
-- **"ReST: High-Precision Soccer Player Tracking via Motion Vector Segmentation "**, 20th VISAPP Conference, 2025, Porto, Portugal.<a href="https://tinyurl.com/k25f5jzw" target="_blank"> VISAPP2025 </a>
-- **"MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking"**, 10th CVSports Workshops (CVPRW), 2024, Seattle, USA. <a href="https://tinyurl.com/52wbjxk5" target="_blank"> CVSports </a>
+- **"Real-time analysis of soccer ball–player interactions using graph convolutional networks for enhanced game insights"**, <a href="https://www.nature.com/articles/s41598-025-05462-7" target="_blank">Scientific Reports</a>, 2025, Nature Portfolio. 
+- **"ReST: High-Precision Soccer Player Tracking via Motion Vector Segmentation "**, <a href="https://tinyurl.com/k25f5jzw" target="_blank">20th VISAPP Conference</a>, 2025, Porto, Portugal.
+- **"MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking"**, <a href="https://tinyurl.com/52wbjxk5" target="_blank">10th CVSports Workshops (CVPRW)</a>, 2024, Seattle, USA.
 
 ---
 

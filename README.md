@@ -69,6 +69,7 @@ A modular pipeline integrating:
 ---
 
 ## 🧪 Publications
+- **"EchoNet++: A Multilingual Soccer Match Audio Commentary Dataset"**, <a href="https://doi.org/10.1038/s41598-026-39884-8" target="_blank">Scientific Reports</a>, 2026, Nature Portfolio. 
 - **"Real-time analysis of soccer ball–player interactions using graph convolutional networks for enhanced game insights"**, <a href="https://www.nature.com/articles/s41598-025-05462-7" target="_blank">Scientific Reports</a>, 2025, Nature Portfolio. 
 - **"ReST: High-Precision Soccer Player Tracking via Motion Vector Segmentation "**, <a href="https://tinyurl.com/k25f5jzw" target="_blank">20th VISAPP Conference</a>, 2025, Porto, Portugal.
 - **"MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking"**, <a href="https://tinyurl.com/52wbjxk5" target="_blank">10th CVSports Workshops (CVPRW)</a>, 2024, Seattle, USA.
@@ -77,7 +78,7 @@ A modular pipeline integrating:
 
 ## 🧬 Datasets
 
-- **SoccerNet**, **SoccerNet-Tracking**, **FIFA World Cup Data**, **OpenPose**, **BraTS**, **ATLAS (ISLES 2022) Challenge Dataset**
+- **SoccerPro**, **EchoNet++**, **SoccerNet**, **SoccerNet-Tracking**, **FIFA World Cup Data**, **OpenPose**, **BraTS**, **ATLAS (ISLES 2022) Challenge Dataset**
 - Annotated custom datasets using CVAT, LabelMe, Makesense.ai, and Roboflow.
 
 ---
@@ -85,7 +86,13 @@ A modular pipeline integrating:
 ## 💼 Professional Experience
 
 - **Teaching & Mentorship**:  
-  Taught undergraduate courses in Computer Science (BS level)  
+  Taught undergraduate courses in Computer Science (BS level)
+  1 - Artificial Intelligence
+  2 - Theory of Automata
+  3 - System Analysis and Design
+  4 - Programming Fundamentals
+  5 - Mobile Application Development
+  6 - Internet of Things (IoT)
   Supervised undergraduate research projects and thesis in CV/AI/IoT/ML domains  
 
 - **Industry Projects**:  

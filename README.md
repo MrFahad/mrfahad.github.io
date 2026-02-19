@@ -85,16 +85,20 @@ A modular pipeline integrating:
 
 ## 💼 Professional Experience
 
-- **Teaching & Mentorship**:  
-- Taught undergraduate courses in Computer Science (BS level)
-  👉 Artificial Intelligence
-  👉 Theory of Automata
-  👉 System Analysis and Design
-  👉 Programming Fundamentals
-  👉 Mobile Application Development
-  👉 Internet of Things (IoT)
-  
-- Supervised undergraduate research projects and thesis in CV/AI/IoT/ML domains  
+## Teaching & Mentorship
+- Taught undergraduate (BS-level) courses in Computer Science:
+  - Artificial Intelligence
+  - Theory of Automata
+  - System Analysis and Design
+  - Programming Fundamentals
+  - Mobile Application Development
+  - Internet of Things (IoT)
+
+- Supervised undergraduate research projects and theses in:
+  - Computer Vision (CV)
+  - Artificial Intelligence (AI)
+  - Internet of Things (IoT)
+  - Machine Learning (ML)
 
 - **Industry Projects**:  
   Worked on AI-driven medical diagnostics, surveillance systems, and sports tech for startups and research labs.

@@ -87,12 +87,13 @@ A modular pipeline integrating:
 
 - **Teaching & Mentorship**:  
   Taught undergraduate courses in Computer Science (BS level)
-  1 - Artificial Intelligence
-  2 - Theory of Automata
-  3 - System Analysis and Design
-  4 - Programming Fundamentals
-  5 - Mobile Application Development
-  6 - Internet of Things (IoT)
+  👉 Artificial Intelligence
+  👉 Theory of Automata
+  👉 System Analysis and Design
+  👉 Programming Fundamentals
+  👉 Mobile Application Development
+  👉 Internet of Things (IoT)
+  
   Supervised undergraduate research projects and thesis in CV/AI/IoT/ML domains  
 
 - **Industry Projects**:  

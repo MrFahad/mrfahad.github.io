@@ -2,7 +2,7 @@
 # Fahad Majeed <a><img src="Fahad.png" width="200" align="right"></a>
 
 ### Computer Vision Researcher | Sports Video Analyst
-I am a **Computer Vision** with over **10 years of cross-disciplinary experience** in academia and industry. My core expertise lies in designing **deep learning-based pipelines** for solving complex challenges in **sports video analytics**, and **large-scale data processing**. I develop end-to-end systems that combine **computer vision**, **graph theory**, **AI**, and **big data technologies** to deliver robust, scalable, and high-impact solutions. My research pushes the boundaries of AI for **human activity understanding**, **real-time tracking**, **pose estimation**, **event detection**, and **instance segmentation**, particularly in domains like **sports performance analysis**.
+I am a **Computer Vision Researcher** with over **10 years of cross-disciplinary experience** in academia and industry. My core expertise lies in designing **deep learning-based pipelines** for solving complex challenges in **sports video analytics**, and **large-scale data processing**. I develop end-to-end systems that combine **computer vision**, **graph theory**, **AI**, and **big data technologies** to deliver robust, scalable, and high-impact solutions. My research pushes the boundaries of AI for **human activity understanding**, **real-time tracking**, **pose estimation**, **event detection**, and **instance segmentation**, particularly in domains like **sports performance analysis**.
 <p align="center">
   <a href="https://www.linkedin.com/in/fahad-majeed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
